@@ -1,0 +1,12 @@
+INPUT(
+./release\enemigo.o
+./release\main.o
+./release\personaje.o
+./release\tablero.o
+./release\muro.o
+./release\proyectil.o
+./release\qrc_Recursos.o
+./release\moc_enemigo.o
+./release\moc_tablero.o
+./release\moc_proyectil.o
+);

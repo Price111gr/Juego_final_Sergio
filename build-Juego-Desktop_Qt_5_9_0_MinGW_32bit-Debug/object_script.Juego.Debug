@@ -1,0 +1,12 @@
+INPUT(
+./debug\enemigo.o
+./debug\main.o
+./debug\personaje.o
+./debug\tablero.o
+./debug\muro.o
+./debug\proyectil.o
+./debug\qrc_Recursos.o
+./debug\moc_enemigo.o
+./debug\moc_tablero.o
+./debug\moc_proyectil.o
+);
